@@ -13,6 +13,10 @@ $ echo "<greeting>hello world</greeting>" | xj
 {"greeting": "hello world"}
 ```
 
+## TODO
+
+- [ ] Pretty-print JSON (currently piping to `jq` for this)
+
 ## License
 
 MIT &copy; 2017 [Peter Benjamin](https://github.com/petermbenjamin)
